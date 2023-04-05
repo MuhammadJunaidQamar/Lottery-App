@@ -1,0 +1,4 @@
+#Fri Oct 14 14:42:57 PKT 2022
+base.0=/home/junaid/Documents/flutter_code/demo_3/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

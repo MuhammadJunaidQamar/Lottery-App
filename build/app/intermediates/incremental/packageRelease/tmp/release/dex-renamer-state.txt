@@ -1,0 +1,4 @@
+#Fri Oct 14 00:22:37 PKT 2022
+base.0=/home/junaid/Documents/flutter_code/demo_3/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
